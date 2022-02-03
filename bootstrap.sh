@@ -1,7 +1,8 @@
 #!/bin/sh
 #
 # 基本セットアップ
-# https://is.gd/saisyo
+# 使い方
+# curl -L https://is.gd/saisyo | sh
 #
 if [ ! -d ~/.ssh ]; then
   mkdir -m 700 ~/.ssh
