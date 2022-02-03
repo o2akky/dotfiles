@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # 基本セットアップ
-#
+# https://is.gd/saisyo
 #
 if [ ! -d ~/.ssh ]; then
   mkdir -m 700 ~/.ssh
